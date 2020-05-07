@@ -1,0 +1,6 @@
+1 breadboard
+3 ressistors - 320ohm
+9 conncting wires
+1 RGB led
+1 arduino uno
+1 KY-002 vibration switch module
